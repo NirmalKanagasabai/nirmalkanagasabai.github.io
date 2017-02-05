@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nirmal Kanagasabai
+title: Introducing Lanyon
 ---
 
 Hello! Welcome to my personal website! :)
