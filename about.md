@@ -10,13 +10,10 @@ title: About
 
 
 
-* I am currently pursuing my Masters at the School of Computer Science, McGill University.\n
-* I am also working as a Graduate Research Assistant at the Software Engineering Lab, McGill University which is headed by [Prof. Joerg Kienzle](http://cs.mcgill.ca/~joerg/Home/Jorgs_Home.html).\n
-* I am also working as a Teaching Assistant for [COMP 361](http://www.mcgill.ca/study/2016-2017/courses/comp-361d1) - Software Engineering Project
+* I am currently pursuing my Masters at the [School of Computer Science](https://www.cs.mcgill.ca/), [McGill University](https://www.mcgill.ca/).
+* I am also working as a Graduate Research Assistant at the Software Engineering Lab, McGill University which is headed by [Prof. Joerg Kienzle](http://cs.mcgill.ca/~joerg/Home/Jorgs_Home.html).
+* I am also working as a Teaching Assistant for [COMP 361 - Software Engineering Project](http://www.mcgill.ca/study/2016-2017/courses/comp-361d1)
 
+Previously, I worked as a Systems Engineer at [Infosys Ltd](https://www.infosys.com/), the second largest Indian IT company operating world-wide for about 2 years. I did my Bachelors in Information Technology at [Pondicherry Engineering College](http://www.pec.edu/) which is affiliated to [Pondicherry University](http://www.pondiuni.edu.in/).
 
-Thanks for reading!
-
-I recently graduated from Carnegie Mellon University, where I pursued my master's in Human-Computer Interaction with a dual degree from the University of Madeira, Portugal. Having come from a Computer Science background, I am intrigued by the convergence of technology and design. I would love to talk about any recent projects that I have worked on.
-
-Thanks for visiting!
+You can find my detailed CV [here](https://nirmalkanagasabai.github.io/public/Nirmal_Kanagasabai.pdf)
