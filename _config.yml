@@ -15,9 +15,17 @@ paginate_path:      "page:num"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name: Nirmal Kanagasabai
+  description: MSc Computer Science, McGill University
+  gravatar: ba40219df65c8dc0258609e8ef0cb163 # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/nirmalkn
+    github:    https://github.com/NirmalKanagasabai
+
+#author:
+#  name:              Mark Otto
+#  url:               https://twitter.com/mdo
+#  email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
