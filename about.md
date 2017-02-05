@@ -10,7 +10,7 @@ title: About
 
 
 
-* I am currently pursuing my Masters at the [School of Computer Science](https://www.cs.mcgill.ca/), [McGill University](https://www.mcgill.ca/).
+* I am currently pursuing M.Sc. Computer Science @ [McGill University](https://www.mcgill.ca/).
 * I am also working as a Graduate Research Assistant at the Software Engineering Lab, McGill University which is headed by [Prof. Joerg Kienzle](http://cs.mcgill.ca/~joerg/Home/Jorgs_Home.html).
 * I am also working as a Teaching Assistant for [COMP 361 - Software Engineering Project](http://www.mcgill.ca/study/2016-2017/courses/comp-361d1)
 
