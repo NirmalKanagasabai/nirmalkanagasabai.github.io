@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Project - Machine Learning:
+title: Machine Learning
 ---
-
-Hello! Welcome to my personal website! :)
-Here's a brief description on the list of projects I have worked on until now:
 
 ### Predict the Winner (Miami Marathon 2017)
 
-<p class="message"> This project was done as a part of <strong>COMP 551 (Applied Machine Learning)</strong> course at McGill University
-</p>
+> This project was done as a part of <strong>COMP 551 (Applied Machine Learning)</strong> course at McGill University
+
 
 The purpose of this project is to predict the final finishing time of the list of participants who have participated in the Miami Marathon 2017. To achieve this, I employed Linear Regression optimized with Gradient Descent Approach.  
 
