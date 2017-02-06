@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Master's Thesis
+author: "KN"
+output:
+  html_document:
+    keep_md: true
+tags: [Thesis, Cloud, Model, Versioning, Collaborative, Distributed, TouchCORE, Repository]
 ---
 
 

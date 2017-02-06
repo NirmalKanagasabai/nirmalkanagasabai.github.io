@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Bachelor's Thesis
+author: "KN"
+output:
+  html_document:
+    keep_md: true
+tags: [Thesis, EME, Multimedia Processing, Video Coding, HEVC, H.265]
 ---
 
 > My Bachelor's Thesis was on Multimedia Processing. It primarily dealt with High Efficiency Video Coding (HEVC) a.k.a H.265
