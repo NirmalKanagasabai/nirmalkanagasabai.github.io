@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Project - Machine Learning:
 ---
 
 Hello! Welcome to my personal website! :)
