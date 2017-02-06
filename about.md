@@ -4,10 +4,8 @@ title: About
 ---
 
 <p class="message">
-  Hi, I am Nirmal Kanagasabai.
+  I am actively seeking Summer Internship 2017. If you are interested, please look at [my resume](https://nirmalkanagasabai.github.io/public/Nirmal_Kanagasabai.pdf) and shoot me an email.
 </p>
-
-
 
 
 * I am currently pursuing M.Sc. [Computer Science](https://www.cs.mcgill.ca/) @ [McGill University](https://www.mcgill.ca/)
