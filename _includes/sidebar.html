@@ -9,7 +9,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -24,25 +24,17 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
-    <a class="sidebar-nav-item" href="https://nirmalkanagasabai.github.io/public/Nirmal_Kanagasabai.pdf">My Resume</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
   </nav>
 
   <div class="sidebar-item">
+    <p class="social-icons">
+       <a href="https://github.com/ragupappu"><i class="fa fa-github fa-2x"></i></a>
+       <a href="https://twitter.com/ragupappu"><i class="fa fa-twitter fa-2x"></i></a>
+       <a href="https://www.linkedin.com/in/rpappu"><i class="fa fa-linkedin fa-2x"></i></a>
+       <a href="/atom.xml"><i class="fa fa-rss fa-2x"></i></a>
+       </p>
     <p>
-     A Jekyll theme adapted from  <a href="http://jekyllrb.com" target="_blank">Jekyll</a> Made by <a href="http://nirmalkanagasabai.github.io" target="_blank">@Nirmal</a>
-   </p>
-   <p class="social-icons">
-     <!-- <a href="https://github.com/lanyonm"><i class="fa fa-github fa-2x"></i></a> -->
-     <!-- <a href="https://bitbucket.org/lanyonm"><i class="fa fa-bitbucket fa-2x"></i></a> -->
-     <!--<a href="https://twitter.com/lanyonm"><i class="fa fa-twitter fa-2x"></i></a> -->
-     <a href="https://ca.linkedin.com/in/nirmalkn"><i class="fa fa-linkedin fa-2x"></i></a>
-     <a href="https://www.facebook.com/nirmal.it"><i class="fa fa-facebook fa-2x"></i></a>
-     <a href="/feed.xml"><i class="fa fa-rss fa-2x"></i></a>
-   </p>
-   <p>
-     &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-   </p>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
   </div>
 </div>
