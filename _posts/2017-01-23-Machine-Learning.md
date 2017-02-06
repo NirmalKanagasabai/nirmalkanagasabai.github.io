@@ -2,7 +2,6 @@
 layout: post
 title: Machine Learning
 author: "KN"
-date: "07/05/2015"
 tags: [Machine Learning, Linear Regression, Gradient Descent, Python, R]
 ---
 
