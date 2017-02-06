@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Nirmal Kanagasabai
 tagline:             '- MSc CS @ McGill University'
-description:         'Software Engineer    | Java Developer     | Researcher '
+description:         'Researcher | Java Developer | Software Engineer'
 url:                 http://nirmalkanagasabai.github.io
 baseurl:             ''
 gems:                [jekyll-paginate]
